@@ -56,7 +56,6 @@ db.init_app(app)
 
 
 # Register URIs
-
 @app.before_request
 def before_request():
     # Check if the request came from a specific origin
