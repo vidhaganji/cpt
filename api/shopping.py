@@ -1,6 +1,6 @@
 import sys
 
-sys.path.append('/home/sumi/vscode/cpt')
+sys.path.append('/home/kasm-user/vscode/cpt/')
 
 from flask import request
 from flask_restful import Resource
